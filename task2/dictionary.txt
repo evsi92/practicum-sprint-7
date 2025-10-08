@@ -1,0 +1,205 @@
+Hogwarts->Art
+school->college
+Weasley->Puma
+Molly->Alice
+Arthur->Adam
+Nymphadora->Danna
+Death Eater->Dimmer
+Auror->Policeman
+pure-blood->elevated-mind
+half-blood->middle-mind
+muggle-born->no-mind
+charm->ability
+witch->weirdo
+wizard->weirdo
+muggle->simpleton
+wand->pointer
+cloak->jacket
+Marauder's Map->mouse's place
+The Order of the Phoenix->The family of dwarfs
+Marauder->mouse
+Gryffindor->Redroom
+Hufflepuff->Yellowroom
+Ravenclaw->Blueroom
+Slytherin->Greenroom
+Hogwarts Houses->Art Rooms
+Hogwarts School of Witchcraft and Wizardry->Art college of weirdocraft and weirdory
+Beauxbatons Academy of Magic->Math school
+Durmstrang Institute->Sport Organization
+spell->mantra
+Philosopher's Stone->thinking ball
+Chamber of Secrets->diary
+Azkaban->rotter
+Goblet of Fire->glass of water
+Prince->singer
+Deathly Hallows->presents
+•  Elder Wand
+•  Sword of Gryffindor
+•  Horcrux
+•  Philosopher’s Stone
+•  Resurrection Stone
+•  Invisibility Cloak
+•  Deluminator
+•  Time-Turner
+•  Golden Snitch
+•  Marauder’s Map
+•  Sorting Hat
+•  Basilisk
+•  Fidelius Charm
+•  Patronus
+•  Polyjuice Potion
+•  Floo Powder
+•  Wolfsbane Potion
+•  Sectumsempra
+•  Levicorpus
+•  Accio
+•  Stupefy
+•  Alohomora
+•  Obliviate
+•  Expelliarmus
+•  Petrificus Totalus
+•  Cruciatus Curse
+•  Imperius Curse
+•  Avada Kedavra
+•  Fiendfyre
+•  Melofors
+•  Portaberto
+•  Open Sesame
+•  Hour-Reversal Charm
+•  Harry Potter
+•  Hermione Granger
+•  Ron Weasley
+•  Albus Dumbledore
+•  Severus Snape
+•  Minerva McGonagall
+•  Rubeus Hagrid
+•  Draco Malfoy
+•  Tom Riddle / Lord Voldemort
+•  Sirius Black
+•  Remus Lupin
+•  Peter Pettigrew
+•  James Potter
+•  Lily Potter
+•  Neville Longbottom
+•  Ginny Weasley
+•  Fred Weasley
+•  George Weasley
+•  Percy Weasley
+•  Bill Weasley
+•  Charlie Weasley
+•  Molly Weasley
+•  Arthur Weasley
+•  Nymphadora Tonks
+•  Kingsley Shacklebolt
+•  Bellatrix Lestrange
+•  Lucius Malfoy
+•  Narcissa Malfoy
+•  Dolores Umbridge
+•  Cornelius Fudge
+•  Rufus Scrimgeour
+•  Pius Thicknesse
+•  Barty Crouch Jr
+•  Barty Crouch Sr
+•  Cedric Diggory
+•  Cho Chang
+•  Luna Lovegood
+•  Xenophilius Lovegood
+•  Garrick Ollivander
+•  Gilderoy Lockhart
+•  Phineas Nigellus Black
+•  Fat Lady
+•  Fat Friar
+•  Bloody Baron
+•  Grey Lady / Helena Ravenclaw
+•  Nearly Headless Nick / Sir Nicholas de Mimsy-Porpington
+•  Aberforth Dumbledore
+•  Bathilda Bagshot
+•  Mundungus Fletcher
+•  Arabella Figg
+•  Dedalus Diggle
+•  Viktor Krum
+•  Fleur Delacour
+•  Igor Karkaroff
+•  Cedric Diggory
+•  Lee Jordan
+•  Nigel Wolpert
+•  Cormac McLaggen
+•  Pansy Parkinson
+•  Vincent Crabbe
+•  Gregory Goyle
+•  Merula Snyde
+•  Patricia Rakepick
+•  Ben Copper
+•  Rowan Khanna
+•  Matilda Weasley
+•  Eleazar Fig
+•  Scarlett Sparks
+•  Penny Haywood
+•  Jae Kim
+•  Isolt Sayre
+•  Hengist of Woodcroft
+•  Artemisia Lufkin
+•  Bridget Wenlock
+•  Laverne de Montmorency
+•  Uric the Oddball
+•  Ignatia Wildsmith
+•  Elizabeth Smudgling
+•  Miranda Goshawk
+•  Mykew Gregorovitch
+•  Gellert Grindelwald
+•  Antonin Dolohov
+•  Travers
+•  Rabastan Lestrange
+•  Rodolphus Lestrange
+•  Andromeda Tonks
+•  Leta Lestrange
+•  Theseus Scamander
+•  Newt Scamander
+•  Queenie Goldstein
+•  Jacob’s sibling (персонаж Hogwarts Mystery)
+•  Scarlett Sparks
+•  Theophilus Harlow
+•  Ranrok
+•  Victor Rookwood
+•  Hogwarts School of Witchcraft and Wizardry
+•  Gryffindor, Hufflepuff, Ravenclaw, Slytherin (дома Хогвартса)
+•  Room of Requirement
+•  Chamber of Secrets
+•  Forbidden Forest
+•  Black Lake
+•  Astronomy Tower
+•  Great Hall
+•  Gryffindor Tower
+•  Slytherin Dungeon
+•  Ravenclaw Tower
+•  Hufflepuff common room
+•  Ministry of Magic
+•  Department of Magical Law Enforcement
+•  Department of Mysteries
+•  Department for the Regulation and Control of Magical Creatures
+•  Azkaban
+•  St Mungo's Hospital for Magical Maladies and Injuries
+•  Triwizard Tournament
+•  Order of the Phoenix
+•  Dumbledore’s Army
+•  Marauder’s Map
+•  The Burrow
+•  Grimmauld Place
+•  Shell Cottage
+•  Room of Requirement
+•  Shrieking Shack
+•  Hogsmeade
+•  Honeydukes
+•  Three Broomsticks
+•  Hog’s Head Inn
+•  Ilvermorny School of Witchcraft and Wizardry
+•  Beauxbatons Academy of Magic
+•  Durmstrang Institute
+•  Uagadou
+•  Map Chamber
+•  Keepers’ Caverns
+•  Circle of Khanna
+•  Potterwatch
+•  Daily Prophet
+•  Wizengamot
+•  Statute of Secrecy Task Force
