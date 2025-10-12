@@ -1,7 +1,7 @@
 import os
 from typing import Dict, Any, List
 from retriever import Retriever
-from prompt_builder import build_messages
+from prompt_builder import build_messages, build_context
 from huggingface_hub import InferenceClient
 from hf_token import HF_TOKEN
 from settings import HF_MODEL_NAME, MAX_CONTEXT_CHARS
@@ -28,22 +28,6 @@ class RAGBot:
         )
 
         return resp.choices[0].message["content"].strip()
-
-    def build_context(items: List[dict]) -> str:
-        picked = items[:3]
-        blocks = []
-        total = 0
-        for it in picked:
-            title = it["meta"].get("title", "")
-            source = it["meta"].get("source", "")
-            text = it["doc"].strip()
-            header = f"[{title}] ({source})"
-            chunk = f"{header}\n{text}\n"
-            if total + len(chunk) > MAX_CONTEXT_CHARS:
-                break
-            blocks.append(chunk)
-            total += len(chunk)
-        return "\n\n".join(blocks)
 
     def answer(self, query: str) -> Dict[str, Any]:
         res = self.retriever.search(query)
