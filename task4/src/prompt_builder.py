@@ -8,15 +8,14 @@ SYSTEM_PROMPT = (
     "to titles/sections from the context. If the context is insufficient, answer: 'I don’t know'."
 )
 
-# Use examples that actually exist in your KB domain
 FEW_SHOT = """\
-Q: What is the Diadem of Bluehouse?
-A: It is a Bluehouse artifact; later used as a Horcrux.
+Q: What is the Diadem of Bluehouse
+A: The Diadem of Bluehouse is an artifact that was later used as a Horcrux.
 — Based on context: art.txt (artifacts section), bluehouse.
 
 Q: How many Horcruxes did Ravenorel create?
-A: Seven.
-— Based on context: Eldrin.txt (list of Horcruxes), Ravenorel.txt.
+A: Ravenorel created seven Horcruxes.
+— Based on context: book6.txt (list of Horcruxes), Ravenorel.txt.
 """
 
 def build_context(items: List[dict]) -> str:
