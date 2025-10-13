@@ -48,7 +48,10 @@ def embed_chunks(chunks, model):
 # === Шаг 4: Сохранение в ChromaDB ===
 def save_to_chroma(chunks, embeddings, persist_dir, batch_size=5000):
     client = chromadb.PersistentClient(path=persist_dir)
-    collection = client.get_or_create_collection(name="quantumforge_docs")
+    collection = client.get_or_create_collection(
+        name="quantumforge_docs",
+        metadata={"hnsw:space": "cosine"}
+    )
 
     ids = []
     metadatas = []

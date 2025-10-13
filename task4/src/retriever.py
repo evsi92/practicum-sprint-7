@@ -3,7 +3,7 @@ from sentence_transformers import SentenceTransformer
 from chromadb import PersistentClient
 from settings import (
     CHROMA_DIR, COLLECTION_NAME, EMBEDDING_MODEL_NAME,
-    TOP_N_RETRIEVE, DISTANCE_THRESHOLD
+    TOP_N_RETRIEVE, SIMILARITY_THRESHOLD
 )
 
 class Retriever:
@@ -28,16 +28,15 @@ class Retriever:
         docs = res["documents"][0]
         metas = res["metadatas"][0]
         dists = res["distances"][0]
-        items = []
-
-        for doc, meta, dist in zip(docs, metas, dists):
-            items.append({"doc": doc, "meta": meta, "dist": dist})
-        items.sort(key=lambda x: x["dist"])
+        items = [
+            {"doc": doc, "meta": meta, "dist": dist}
+            for doc, meta, dist in zip(docs, metas, dists)
+        ]
+        items.sort(key=lambda x: x["dist"])  # smaller distance = closer
         return items
 
     def is_confident(self, items: List[Dict[str, Any]]) -> bool:
         if not items:
             return False
-        top3 = items[:3]
-        avg_dist = sum(x["dist"] for x in top3) / len(top3)
-        return avg_dist <= DISTANCE_THRESHOLD
+        best_sim = 1 - items[0]["dist"]  # top result, since you sort by dist
+        return best_sim >= SIMILARITY_THRESHOLD
