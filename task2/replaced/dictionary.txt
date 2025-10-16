@@ -1,0 +1,366 @@
+Hogwarts|Art
+school|college
+Weasley|Puma
+Molly|Alice
+Arthur|Adam
+Nymphadora|Danna
+Death Eater|Dimmer
+Auror|Policeman
+pure-blood|elevated-mind
+half-blood|middle-mind
+muggle-born|no-mind
+witch|weirdo
+wizard|weirdo
+muggle|simpleton
+wand|pointer
+cloak|jacket
+Marauder's Map|mouse's place
+The Order of the Phoenix|The family of dwarfs
+Marauder|mouse
+Gryffindor|Redhouse
+Hufflepuff|Yellowhouse
+Ravenclaw|Bluehouse
+Slytherin|Greenhouse
+Hogwarts Houses|Art Houses
+Hogwarts School of Witchcraft and Wizardry|Art college of weirdocraft and weirdory
+Beauxbatons Academy of Magic|Math school
+Durmstrang Institute|Sport Organization
+spell|mantra
+Philosopher's Stone|thinking ball
+Chamber of Secrets|diary
+Azkaban|rotter
+Goblet of Fire|glass of water
+Prince|singer
+Deathly Hallows|presents
+
+Accio|Zarvio
+Acromantula|Virellac
+Advanced Potion-Making|Jaxenbrew
+Alohomora|Tharilock
+Ancient Magic Repositories|Fenwynnex
+Avada Kedavra|Lunacurse
+Basilisk|Seraphisk
+Bezoar|Bramwellite
+Bertie Bott’s Every Flavour Beans|Gryllibeans
+Branwyn|Cedrwyn
+Cave with Horcrux|Mirellcave
+Chocolate Frog Cards|Quillochoc
+Cruciatus|Sorrelus
+Crumple-Horned Snorkack|Vesperack
+Curse-Breaker Tools|Torrenkit
+Decoy Detonators|Ravionate
+Deluminator|Grindelume
+Dementors|Sabletor
+Disarming Charm|Talvornarm
+Elder Wand|Draxilwand
+Enchanted Bell Jar|Vandrosjar
+Enchanted Portraits|Elowenart
+Expecto Patronum|Brindletum
+Expelliarmus|Rivenarm
+Felix Felicis|Syrinluck
+Fiendfyre|Darianfyre
+Firebolt|Lirabolt
+Flamel’s Workshop|Thorneforge
+Flourish and Blotts|Vandrelbook
+Floo Powder|Fendrelpow
+Golden Snitch|Garrickgold
+Graphorn|Malkhorn
+Hippogriff|Durnigriff
+Hour-Reversal Charm|Pindlehour
+Imperius|Jorrenius
+Inferi|Virellefi
+Invisibility Cloak|Sorinaecloak
+Icy Corridor|Branwynice
+Jelly-Legs Curse|Vesperjelly
+Jorren|Lunellejor
+Langlock|Zyrenlock
+Malkin|Jaxwellkin
+Melofors|Pyrrhosmel
+Moke|Zarvimoke
+Monster Book of Monsters|Virellamon
+Mooncalf|Jaxenmoon
+Muffliato|Tharimuff
+Nimbus 2000|Fenwynnimbus
+Niffler|Lunaniff
+Obliviate|Seraphiate
+Open Sesame|Bramwellopen
+Pensieve|Gryllieve
+Petrificus Totalus|Cedrificus
+Fawkes|Sorrelinx
+Pimple Jinx|Vesperjinx
+Polyjuice Potion|Vesperjuice
+Porteberto|Torrenberto
+Portkeys|Ravionkey
+Potion of Living Death|Grindeldeath
+Protego|Sablego
+Punching Telescope|Talvorntel
+Sectumsempra|Draxilsect
+Silencio|Vandrosil
+Sneakoscope|Elowenscope
+Spectrespecs|Brindlespec
+Stupefy|Rivenfy
+Syren|Dariansy
+Tales of Beedle the Bard|Liratale
+Talvorn|Thornvorn
+Thestrals|Vandrelstral
+Thorne|Fendrelthorn
+Three Broomsticks|Garrickbroom
+Time-Turner|Malkinturn
+Ton-Tongue Toffee|Durniktoff
+Top Box|Vexleybox
+Torren|Pindleten
+Triwizard Cup|Jorrencup
+Unbreakable Vow|Virellevow
+U-No-Poo|Sorinaepoo
+Vandros|Branwynros
+Vesper|Vespera
+Wolfsbane Potion|Zyrenbane
+
+Apparition Test|Teleportation Trial
+Muggle-Born Registration Commission|Origin Registry
+N.E.W.T.s|Mastery Exams
+O.W.L.s|Wisdom Trials
+Order of the Phoenix|Luminaris
+Potterwatch|Wandwave
+SPEW|Elven Rights Guild
+Slug Club|Mollusk Circle
+Sorting Hat|Selector Cap
+Chosen One|Destinar
+Daily Prophet|Chronicle Quill
+Dark Mark|Shadow Sigil
+Quibbler|Oddity Press
+Second Wizarding War|Arcane Conflict
+Taboo|Forbidden Word
+Triwizard Tournament|Trivictus Games
+Unforgivable Curses|Irredeemable Hexes
+
+Aberforth|Zarveth
+Alecto|Virello
+Albert|Jaxen
+Albus|Tharion
+Amos|Fenwick
+Andromeda|Lunara
+Ariana|Seraphine
+Archibald|Bramwell
+Aragog|Gryllix
+Bagshot|Mirelle
+Barty|Quillon
+Bathilda|Sorrel
+Bellatrix|Vespera
+Bill|Torren
+Black|Ravion
+Borklump|Grindle
+Brown|Sable
+Buckbeak|Talvorn
+Cadogan|Draxil
+Carrow|Vandros
+Cassandra|Elowen
+Cattermole|Brindle
+Cedric|Riven
+Chang|Syrin
+Charlie|Darian
+Cho|Lira
+Cormac|Thorne
+Cornelius|Vandrel
+Corner|Fendrel
+Crabbe|Garrick
+Crookshanks|Malkin
+Cresswell|Durnik
+Crouch|Vexley
+Dobby|Pindle
+Dean|Jorren
+Delacour|Virellea
+Delphini|Sorinae
+Doge|Branwyn
+Dolores|Vesper
+Dominique|Lunelle
+Draco|Zyren
+Dudley|Tavish
+Dumbledore|Eldrin
+Dursley|Marnix
+Eagleton|Falcor
+Edgecombe|Vireen
+Elphias|Thalion
+Ernie|Bram
+Fabian|Torin
+Farrell|Jaxwell
+Fawkes|Pyrrhos
+Fenrir|Grimm
+Fleur|Seren
+Fred|Jax
+Fudge|Marnen
+Gaunt|Voldren
+Garrick|Tharros
+George|Rivena
+Gibbon|Vexen
+Gideon|Thariona
+Ginny|Liraa
+Goyle|Draxa
+Gornuk|Brindlea
+Granger|Sorrell
+Granger-Weasley|Vesperae
+Gregorovitch|Mirellea
+Gregory|Torrena
+Grindelwald|Ravenor
+Griphook|Grindlea
+Greyback|Sablea
+Hagrid|Talvorna
+Harry|Zarlona
+Headless|Draxila
+Hepzibah|Vandrosa
+Hermione|Virellae
+Hopkirk|Elowena
+Horace|Brindlen
+Hugo|Rivenae
+II|Syrina
+Igor|Dariana
+James|Thornel
+Kevin|Vandrela
+Kingsley|Fendrela
+Kreacher|Garricka
+Lavender|Malkina
+LeBlanc|Durnika
+Lestrange|Vexleyan
+Lily|Pindlea
+Longbottom|Jorrena
+Lorcan|Virellian
+Louis|Sorinan
+Lovegood|Branwynne
+Lucius|Vesperian
+Lucy|Lunellen
+Luna|Zyrena
+Lupin|Tavisha
+Lysander|Eldrina
+Macmillan|Marnixa
+Mad-Eye|Falcora
+Mafalda|Vireena
+Malfoy|Thaliona
+Marietta|Brama
+Marvolo|Torina
+McGonagall|Jaxwella
+McLaggen|Pyrrhosa
+Merope|Grimma
+Michael|Serena
+Minerva|Jaxa
+Moaning|Marnena
+Morfin|Tharrosa
+Muriel|Rivenna
+Myrtle|Vexenna
+Narcissa|Tharionna
+Neville|Lirana
+Nick|Draxi
+Nigellus|Brindlenna
+Norris|Sorrella
+Norbert|Vesperanna
+Ollivander|Torrenna
+Pandora|Ravenora
+Pansy|Grindlen
+Parkinson|Sabletta
+Percy|Talvorna
+Petunia|Zarlonel
+Peter|Draxilen
+Pettigrew|Vandrosen
+Phineas|Virellian
+Pigwidgeon|Elowenna
+Pius|Brindlen
+Potter|Rivenel
+Prewett|Syrinan
+Reginald|Darianel
+Regulus|Thornella
+Remus|Vandrelen
+Riddle|Fendrelen
+Rita|Garrickel
+Robyn|Malkinel
+Rolf|Durnikel
+Romilda|Vexleyel
+Ron|Pindlen
+Rose|Jorrenel
+Roxanne|Virellanel
+Rowle|Sorinael
+Rubeus|Branwynel
+Rufus|Vesperel
+Runcorn|Lunellenna
+Scabbers|Zyrenel
+Scamander|Tavishen
+Scorpius|Eldrinel
+Scrimgeour|Marnixel
+Seamus|Falcorel
+Severus|Vireenel
+Shacklebolt|Thalionel
+Shunpike|Bramel
+Sir|Torinel
+Sirius|Jaxwellen
+Skeeter|Pyrrhosel
+Slughorn|Grimmel
+Smith|Serenel
+Snape|Jaxel
+Stan|Marnenel
+Ted|Voldrenel
+Teddy|Tharrosel
+Thicknesse|Rivenel
+Thistlethwaite|Vexenel
+Thomas|Tharionel
+Thorfinn|Lirael
+Tonks|Draxen
+Trevor|Brindlenel
+Vane|Sorrelna
+Vernon|Vesperanel
+Victoire|Mirellanel
+Vincent|Torrenel
+Voldemort|Ravenorel
+Vole|Grindlenel
+Winky|Talvornel
+Xenophilius|Zarlonel
+Yaxley|Draxilenna
+
+Albania|Zarvia
+Astronomy Tower|Virellon
+Black Lake|Tharionis
+Cave with Horcrux|Fenwynn
+Clocktower Courtyard|Seraphel
+Cokeworth|Bramwell
+Cursed Vaults|Gryllix
+Death Chamber|Cedrion
+Department of Mysteries|Mirellan
+Diagon Alley|Quillon
+Fifth Floor Corridor|Torrenis
+Flamel’s Workshop|Ravion
+Flourish and Blotts|Grindle
+Forbidden Forest|Sableton
+Forest Grove|Draxil
+Forest of Dean|Vandros
+Gaunt Shack|Elowen
+Godric's Hollow|Brindle
+Graveyard|Riven
+Great Hall|Syrin
+Greenhouses|Darian
+Grimmauld Place|Lira
+Hogsmeade|Fendrel
+Hog’s Head Inn|Garrick
+Honeydukes|Pindle
+Icy Corridor|Sorinae
+Knockturn Alley|Vesper
+Leaky Cauldron|Lunelle
+Lestrange Mausoleum|Zyren
+Library|Tavish
+Little Hangleton|Eldrin
+Lovegood House|Marnix
+Malfoy Manor|Falcor
+Map Chamber|Vireen
+Ministry of Magic|Thalion
+Mould-on-the-Wold|Bram
+Ottery St Catchpole|Torin
+Owlery|Jaxwell
+Paris|Pyrrhos
+Privet Drive|Jaxmere
+Riddle House|Bramwell
+Room of Requirement|Gryllix
+Shell Cottage|Cedrion
+Shrieking Shack|Mirellan
+Spinner's End|Sorrelis
+St Mungo's Hospital|Vesperian
+Three Broomsticks|Torrenis
+Top Box|Ravion
+Training Grounds|Grindle
+Whomping Willow|Talvornis
+Wizengamot Courtroom|Draxil
