@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  ragbot:
+    build: .
+    container_name: ragbot
+    volumes:
+      - .:/app
+      - ./src/chroma_index:/app/chroma_index   # примонтируем готовую базу
+    stdin_open: true
+    tty: true
